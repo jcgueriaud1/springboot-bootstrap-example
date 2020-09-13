@@ -1,1 +1,1 @@
-web: java -jar target/bootstrap-example*.jar $PORT
+web: java -jar  target/bootstrap-example-1.0-SNAPSHOT.jar $PORT
